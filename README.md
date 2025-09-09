@@ -29,3 +29,7 @@ $ yarn dev
 ## More
 
 This project copy from [dappVote](https://github.com/Daltonic/dappVote), it is very good example to learn Solidity, thank to Daltonic!
+
+## Screenshots
+![screenshot](./screenshots/0.png)
+![screenshot](./screenshots/1.png)
